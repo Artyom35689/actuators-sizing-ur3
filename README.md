@@ -50,7 +50,7 @@ pip install numpy lxml
 1. Place the base UR3 MJCF file as:
 
    ```text
-   model-input/universalUR3.mjcf
+   model-input/universalUR3.xml
    ```
 
    This file should be obtained by loading the UR3 URDF into MuJoCo and using
